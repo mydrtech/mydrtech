@@ -41,9 +41,9 @@ At **Dr. Tech**, we create powerful, scalable, and beautifully designed software
 
 We love collaborating with entrepreneurs, NGOs, and developers.
 
-- 📧 Email: hello@drtech.in  
-- 🌍 Website: [www.drtech.in](https://www.drtech.in)  
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/company/dr-tech)
+- 📧 Email: contact@mydrtech.in  
+- 🌍 Website: [www.mydrtech.in](https://www.mydrtech.in)  
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/company/mydrtech)
 
 ---
 
